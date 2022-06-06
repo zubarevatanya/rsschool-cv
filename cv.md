@@ -44,3 +44,7 @@ Logistics specialist
 + *Memory-card-game*
 + *Image-galery*
 + *Eco-sounds*
++ *Shelter*
++ *Virtual Keyboard*
++ *CSS Mem Slider*
++ *Clean Code*
